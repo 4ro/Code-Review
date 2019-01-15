@@ -10,17 +10,5 @@ class Ship:
         else:
             return False
 
-
-Eclipse = Ship(900,50)
-print(Eclipse.is_worth_it())
-
-
-
-
-
-                        
-
-
-
-
- 
+Titanic = Ship(900,50)
+print(Titanic.is_worth_it())
