@@ -1,5 +1,5 @@
 import unittest
-from codereview1 import Ship 
+from codereview import Ship 
 
 class test_codereview(unittest.TestCase):
     def test_is_worth_it(self):
